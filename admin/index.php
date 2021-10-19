@@ -33,7 +33,7 @@
 
       <div id="login">
 
-        <form method="post">
+        <form action="connect.php" method="post">
 
           <fieldset class="clearfix">
 
