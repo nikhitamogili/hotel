@@ -1,7 +1,4 @@
-<?php
-include('db.php');
-?>
-<html>
+<!DOCTYPE html>
 <head>
 <title>SUNRISE HOTEL</title>
 <!-- for-mobile-apps -->
